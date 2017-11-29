@@ -210,8 +210,29 @@ video {
   color: #525252;
 }
 
+.navbar {
+  margin-bottom: 0;
+}
+
 .navbar-inverse .navbar-toggle .icon-bar {
   background-color: #b2dbfb;
+}
+
+.page-title {
+  background-color: #F5F5F5;
+  -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+          box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+  padding: 50px 0;
+}
+
+.page-title.page-title_m-b {
+  margin-bottom: 50px;
+}
+
+.page-title .page-title__h1 {
+  color: #212121;
+  font-size: 2.25rem;
+  line-height: 3rem;
 }
 
 /* -------------------------------------------------------------------------
@@ -393,7 +414,5 @@ video {
 /* -------------------------------------------------------------------------
    end Footer
  * ------------------------------------------------------------------------- */
-
-/*# sourceMappingURL=style.css.map */
 
 /*# sourceMappingURL=style.css.map */
