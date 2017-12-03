@@ -280,6 +280,21 @@ video {
   margin-bottom: 10px;
 }
 
+.video .video__item-film.video__item-film_drive {
+  height: 0;
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 25px;
+}
+
+.video .video__item-iframe {
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
 .video .video__item-descr-title {
   font-size: 1.125rem;
   margin-bottom: 5px;
