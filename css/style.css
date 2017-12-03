@@ -246,7 +246,11 @@ video {
 }
 
 .slider.slider_m-b {
-  margin-bottom: 30px;
+  margin-bottom: 50px;
+}
+
+.slider.slider_m-t {
+  margin-top: 30px;
 }
 
 .carousel-inner .item img {
@@ -264,6 +268,10 @@ video {
 /* -------------------------------------------------------------------------
    begin Video
  * ------------------------------------------------------------------------- */
+.video.video_m-b {
+  margin-bottom: 50px;
+}
+
 .video .video__item {
   margin-bottom: 30px;
 }
@@ -380,6 +388,10 @@ video {
 /* -------------------------------------------------------------------------
    begin Video Year
  * ------------------------------------------------------------------------- */
+.video-year.video-year_m-b {
+  margin-bottom: 50px;
+}
+
 .video-year .video-year__item {
   margin-bottom: 30px;
 }
